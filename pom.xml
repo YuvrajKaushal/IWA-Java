@@ -37,7 +37,7 @@
         <font-awesome.version>5.15.2</font-awesome.version>
         <chartjs.version>2.9.4</chartjs.version>
         <axios.version>0.21.1</axios.version>
-        <springdoc-openapi.version>1.4.3</springdoc-openapi.version>
+        <springdoc-openapi.version>1.8.0</springdoc-openapi.version>
         <jwt.version>0.9.1</jwt.version>
         <jackson.version>2.13.0</jackson.version>
         <groovy.version>3.0.8</groovy.version>
