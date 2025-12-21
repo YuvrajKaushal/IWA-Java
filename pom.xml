@@ -41,7 +41,7 @@
         <jwt.version>0.9.1</jwt.version>
         <jackson.version>2.13.0</jackson.version>
         <groovy.version>3.0.8</groovy.version>
-        <selenium.version>4.0.0-rc-2</selenium.version>
+        <selenium.version>4.14.0</selenium.version>
         <junit.version>4.12</junit.version>
         <fortify.version>22.2.0</fortify.version>
         <skip.unit.tests>true</skip.unit.tests>
